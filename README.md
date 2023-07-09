@@ -1,4 +1,3 @@
-<img width="260" alt="search_result" src="https://github.com/AyushAS04/google_clone/assets/95140328/17d7b0d9-a4a3-405a-ac23-3e30c1c8bbac">
 # google_clone
 
 A new Flutter project.
